@@ -1,4 +1,4 @@
-# Dataset description — CMAS_2026_refinery
+# Dataset description: `CMAS_2026_refinery`
 This folder contains the complementary results and datasets used in the work:
 
 *Perspectives on Modeling the Refinery’s Atmospheric Emissions*,
