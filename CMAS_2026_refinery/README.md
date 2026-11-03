@@ -6,7 +6,7 @@ presented at The Air Pollution Conference Brazil, joint with the 6th CMAS South 
 
 ## Data source
 - Meteorological data was obtained from [INMET](https://bdmep.inmet.gov.br/), the National Institute of Meteorology, Brazil's official national meteorological service.
-- Atmospheric sounding data was obtained from the [University of Wyoming](https://weather.uwyo.edu/upperair/sounding_legacy.html) site.
+- Atmospheric sounding data was obtained from the [University of Wyoming](https://weather.uwyo.edu/upperair/sounding_legacy.html).
 - Terrain data was obtained from [USSG EarthExplorer](https://earthexplorer.usgs.gov/), a free online search, discovery, and data-download platform created by the U.S. Geological Survey (USGS) EROS (Earth Resources Observation and Science) Center.
 
 The datasets were downloaded from the period corresponing to the data analysis, as the study is set in October 2022.
