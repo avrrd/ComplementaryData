@@ -17,8 +17,7 @@ The datasets were downloaded from the period corresponing to the data analysis, 
 ## Dataset description
 The files correspond to different pollutant dispersion and analysis, (`POLLUTANT.mp4`) as defined and analysed in the article:
 - `SO2.mp4`: Sulfur Dioxide (SO<sub>2</sub>).
-<video src="https://githubusercontent.com" controls="controls" style="max-width: 730px;">
-</video>
+https://github.com/avrrd/ComplementaryData/blob/main/CMAS_2026_refinery/plume_SO2.mp4
 - `PM25.mp4`: Fine Particulate Matter (PM<sub>2.5</sub>).
 - `PM10.mp4`: PM<sub>10</sub>
 - `CO2.mp4`: Carbon Dioxide (CO<sub>2</sub>).
