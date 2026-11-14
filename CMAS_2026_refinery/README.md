@@ -16,12 +16,10 @@ The datasets were downloaded from the period corresponing to the data analysis, 
 
 ## Dataset description
 The files correspond to different pollutant dispersion and analysis, (`POLLUTANT.mp4`) as defined and analysed in the article:
-- `SO2.mp4`: Sulfur Dioxide (SO<sub>2</sub>).
-https://github.com/avrrd/ComplementaryData/blob/main/CMAS_2026_refinery/plume_SO2.mp4
-- `PM25.mp4`: Fine Particulate Matter (PM<sub>2.5</sub>).
-- `PM10.mp4`: PM<sub>10</sub>
-- `CO2.mp4`: Carbon Dioxide (CO<sub>2</sub>).
-- `BC.mp4`: Black Carbon (BC).
+- `plume_SO2.mp4`: Sulfur Dioxide (SO<sub>2</sub>).
+- `plume_PM25.mp4`: Fine Particulate Matter (PM<sub>2.5</sub>).
+- `plume_CO2.mp4`: Carbon Dioxide (CO<sub>2</sub>).
+- `plume_NOX.mp4`: Nitrogen Oxides (NO<sub>x</sub>).
 
 ## Notes
 All datasets are provided in their processed form, as used in the statistical, meteorological and chemical analyses. Detailed information regarding data processing, inclusion criteria, and methodological procedures can be found in the corresponding publication.
