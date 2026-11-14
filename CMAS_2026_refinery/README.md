@@ -21,6 +21,9 @@ The files correspond to different pollutant dispersion and analysis, (`POLLUTANT
 - `plume_CO2.mp4`: Carbon Dioxide (CO<sub>2</sub>).
 - `plume_NOX.mp4`: Nitrogen Oxides (NO<sub>x</sub>).
 
+## Discussion
+...
+
 ## Notes
 All datasets are provided in their processed form, as used in the statistical, meteorological and chemical analyses. Detailed information regarding data processing, inclusion criteria, and methodological procedures can be found in the corresponding publication.
 
